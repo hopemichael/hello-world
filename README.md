@@ -1,2 +1,5 @@
 # hello-world
-first
+
+Hi humans!
+
+I like node.js and coffeescript
